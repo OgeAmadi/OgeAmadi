@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OgeAmadi
-- 👀 I’m interested in Website and Mobile App Development 
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on Mobile App Development 
+- 👀 I’m interested in Website and Software Development 
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on Software Development 
 - 📫 How to reach me; Send am email to favouramadi1@gmail.com 
 
 <!---
