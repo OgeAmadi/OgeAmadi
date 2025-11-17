@@ -7,6 +7,7 @@ I’m a Technical Support Engineer and budding WordPress developer who enjoys so
 	•	Learning new tech, tips and tricks
   
 🌱 What I’m Learning
+
 Currently deepening my WordPress development skills and exploring more ways to build fast, stable and user friendly sites.
 
 💞️ Collaboration
