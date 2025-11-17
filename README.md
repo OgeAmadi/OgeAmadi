@@ -1,4 +1,4 @@
-👋 Hi, I’m @OgeAmadi
+👋 Hi, I’m Oge!
 <br>I’m a Technical Support Engineer and budding WordPress developer who enjoys solving problems, building things, and keeping the internet running smoothly.
 
 👀 What I’m Into 
